@@ -1,1 +1,1 @@
-# BetterDiscordTokenStealer-
+a simple token stealer.
